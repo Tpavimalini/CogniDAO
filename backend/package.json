@@ -1,0 +1,8 @@
+{
+  "name": "trustless-dao-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.3.0"
+  }
+}
